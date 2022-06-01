@@ -71,8 +71,9 @@
 </table>
 
 
-<!-- <br> -->
+<br>
 <hr>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh020&show_icons=true&locale=en&layout=compact" alt="Vermasoumitra020" width="370" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vermasoumitra020&show_icons=true&locale=en" alt="Vermasoumitra020" width="380" /></p>
